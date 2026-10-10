@@ -1,2 +1,2 @@
-# DRM-hathway-Ayan
+# STM-hathway-Ayan
 This repository is for only collage projects.....
