@@ -1,3 +1,3 @@
 # STM-hathway-Ayan
 This repository is for only collage projects.....
-tofani
+My name is Ayan Biswas,i'm a third year collage student studying BCA_HONS.
